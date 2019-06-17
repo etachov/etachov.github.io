@@ -47,7 +47,7 @@ d3.csv('data/rural_customer_data_fig_7a.csv')
 
   width = d3.select("#chart").node().getBoundingClientRect().width;
   key_w = width * 0.28;
-  height = (window.innerHeight -140) * 0.95;
+  height = (window.innerHeight -70) * 0.95;
 
   d3.select("#chart").style("height", height);
 
