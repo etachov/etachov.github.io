@@ -6,7 +6,7 @@ placeholder styling
 body, svg {
   font-family: "CalibreWeb-Regular", sans-serif;
   margin: 10px auto;
-  font-size: 16px;
+  font-size: 15px;
 }
 
 h2.sectionTitle {text-align: center;}
@@ -41,7 +41,7 @@ text#legendYear {font-size: 72px; fill: #aaa; font-weight: 800;}
 .keygroup.visible {display: block; cursor: pointer; font-size: 12px; }
 
 .year.label, .legendlabel {
-  font: 600 14px "CalibreWeb-Regular", sans-serif;
+  font: 600 13px "CalibreWeb-Regular", sans-serif;
 }
 
 .year.label { font-size: 13px; }
