@@ -8,7 +8,7 @@ Hi my name is Evan and I'm the lead data scientist and a director at <a href = "
 
 At Rockefeller, I design, build, and fund data and technology initiatives. Right now, I'm focused on using data to help stop the spread of Covid-19 and building analytical tools to improve the efficacy of international development.
 
-Recent intiatives I've designed and launched include: 
+Recent intiatives I've designed and helped launch include: 
 - <a href = "https://lacunafund.org/" target = "_blank">Lacuna Fund</a>. A fund to help researchers and engineers build equitable datasets for machine learning.
 - <a href = "https://nursing.jhu.edu/cma" target = "_blank">Covid-19 Modeling Accelerator</a>. A mechanism to quickly translate quantiative new methods into to decision-support tools for policy makers.
 - <a href = "https://www.data.org/" target = "_blank">data.org</a>. A global platform for co-funding data science for social impact projects.
